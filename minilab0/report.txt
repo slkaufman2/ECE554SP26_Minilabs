@@ -1,0 +1,2 @@
+The difference in resource utilization between the synthesis and implementation reports are because the synthesis report shows no usage of the FPGA where as the implementation report does.
+For a larger memory design, it would be smart to use the 4 gigabytes of memory present on the board.
